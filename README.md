@@ -1,1 +1,1 @@
-# Sistema de irrigação aumotmático para Arduino
+# Sistema de irrigação automático para Arduino
